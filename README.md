@@ -1,2 +1,2 @@
 # Binary-Search-Tree-Using-Linked-List
-This is the java project which implements Binary Search using Linked List. All the given numbers are inserted into linked lists and the number of linked lists grows level by level based on coin flip logic.
+This is the java project which implements Binary Search using Linked List. All the given numbers are inserted into linked lists and the number of linked lists grows level by level based on coin flip logic. This levels of linked list continues until reaching a structure of Binary Search tree. All levels of linked list is connected to each other which depicts left and right child of tree.
